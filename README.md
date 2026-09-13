@@ -2,6 +2,10 @@
 
 Predicting which customers are likely to cancel their subscription, using machine learning on real-world telecom dataset.
 
+## Tech Stack for this project
+
+Python · pandas · scikit-learn · matplotlib · seaborn · Jupyter
+
 ## My Motivation
 
 I work at ACE Pickleball Club, and recently we've seen a number of members cancel their memberships. That raised the question "what actually drives someone to leave a subscription-based business?", and could the likeliness be predicted in advance? 
@@ -54,7 +58,11 @@ The model performs solidly overall but has room to improve on catching actual ch
 
 ## How to Run This Project
 
-1. Clone this repository: https://github.com/Ashwika-R/customer-churn-prediction.git
+1. Clone this repository:
+```
+   git clone https://github.com/Ashwika-R/customer-churn-prediction.git
+   cd customer-churn-prediction
+```
 
 2. Create a conda environment: 
 ```
@@ -71,6 +79,4 @@ conda activate churn-project
 - [ ] Feature importance analysis to rank the strongest churn predictors
 - [ ] Build an interactive Streamlit demo for live predictions
 
-## Tech Stack
 
-Python · pandas · scikit-learn · matplotlib · seaborn · Jupyter
