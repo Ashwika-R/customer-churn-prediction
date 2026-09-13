@@ -9,4 +9,3 @@ dependencies:
   - jupyter
   - matplotlib
   - seaborn
-prefix: /opt/anaconda3/envs/churn-project
