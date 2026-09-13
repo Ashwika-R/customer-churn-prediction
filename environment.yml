@@ -1,0 +1,12 @@
+name: churn-project
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - scikit-learn
+  - pandas
+  - numpy
+  - jupyter
+  - matplotlib
+  - seaborn
+prefix: /opt/anaconda3/envs/churn-project
