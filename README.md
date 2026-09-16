@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction
+# Telco Customer Retention Predictor
 
 Predicting which customers are likely to cancel their subscription, using machine learning on real-world telecom dataset.
 
